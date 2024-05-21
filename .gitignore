@@ -10,4 +10,5 @@
 *.snm
 *.gz
 *.toc
+*.pdf
 lectures/introduction_to_mcmc.pdf

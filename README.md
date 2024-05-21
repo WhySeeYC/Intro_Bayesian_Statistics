@@ -1,3 +1,5 @@
+Note that this is a course tutorial from [Ben Lamber](https://github.com/open-courses-statistics-data-science/introduction_to_bayesian_mcmc_mathbio/tree/main)
+
 # A short introduction to Bayesian inference and MCMC
 This course provides a short introduction to Bayesian inference, which should take roughly a day to complete.
 
